@@ -324,7 +324,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{315, 612}, {27, 18}}</string>
+			<string>{{315, 621}, {27, 18}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -4806,7 +4806,7 @@ Service}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-12-05 11:52:41 -0600</string>
+	<string>2012-12-05 11:59:00 -0600</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
