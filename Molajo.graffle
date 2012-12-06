@@ -4877,7 +4877,7 @@ Service}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{578, 0}, {1429, 1418}}</string>
+		<string>{{334, -23}, {1429, 1418}}</string>
 		<key>ListView</key>
 		<false/>
 		<key>OutlineWidth</key>
