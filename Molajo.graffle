@@ -1761,51 +1761,6 @@ CC BY SA 3.0}</string>
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>389</integer>
-				<key>Position</key>
-				<real>0.96600216627120972</real>
-			</dict>
-			<key>ID</key>
-			<integer>390</integer>
-			<key>Layer</key>
-			<integer>0</integer>
-			<key>OrthogonalBarAutomatic</key>
-			<true/>
-			<key>OrthogonalBarPoint</key>
-			<string>{0, 0}</string>
-			<key>OrthogonalBarPosition</key>
-			<real>-1</real>
-			<key>Points</key>
-			<array>
-				<string>{324, 258}</string>
-				<string>{315.484, 258}</string>
-			</array>
-			<key>Style</key>
-			<dict>
-				<key>stroke</key>
-				<dict>
-					<key>HeadArrow</key>
-					<string>FilledArrow</string>
-					<key>Legacy</key>
-					<true/>
-					<key>LineType</key>
-					<integer>2</integer>
-					<key>TailArrow</key>
-					<string>0</string>
-				</dict>
-			</dict>
-			<key>Tail</key>
-			<dict>
-				<key>ID</key>
-				<integer>19</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Class</key>
-			<string>LineGraphic</string>
-			<key>Head</key>
-			<dict>
-				<key>ID</key>
 				<integer>19</integer>
 			</dict>
 			<key>ID</key>
@@ -2213,7 +2168,7 @@ CC BY SA 3.0}</string>
 				<string>{351, 657}</string>
 				<string>{573.25, 649}</string>
 				<string>{572.5, 468}</string>
-				<string>{574.25, 189}</string>
+				<string>{576, 189}</string>
 				<string>{574.25, 189}</string>
 				<string>{574.25, 189}</string>
 				<string>{360, 189}</string>
@@ -4806,7 +4761,7 @@ Service}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-12-05 23:50:17 -0600</string>
+	<string>2012-12-06 05:59:37 -0600</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
@@ -4877,7 +4832,7 @@ Service}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{334, -23}, {1429, 1418}}</string>
+		<string>{{12, 0}, {1429, 1418}}</string>
 		<key>ListView</key>
 		<false/>
 		<key>OutlineWidth</key>
@@ -4891,7 +4846,7 @@ Service}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{7.5, 47}, {568.5, 632.5}}</string>
+		<string>{{0, 3.5}, {568.5, 632.5}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>
