@@ -2182,10 +2182,10 @@ CC BY SA 3.0}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs20 \cf2 Controller}</string>
+\f0\fs20 \cf1 Controller}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -2882,10 +2882,10 @@ CC BY SA 3.0}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs20 \cf2 Models}</string>
+\f0\fs20 \cf1 Models}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -2928,10 +2928,10 @@ CC BY SA 3.0}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs20 \cf2 Includers}</string>
+\f0\fs20 \cf1 Includers}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -2974,10 +2974,10 @@ CC BY SA 3.0}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs20 \cf2 Parse}</string>
+\f0\fs20 \cf1 Parse}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -3215,10 +3215,10 @@ CC BY SA 3.0}</string>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs20 \cf2 Event \
+\f0\fs20 \cf1 Event \
 Service}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
@@ -4050,7 +4050,7 @@ Service}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs18 \cf0 On After Initialisation}</string>
+\f0\fs18 \cf0 On After Initialise}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -4714,7 +4714,7 @@ Service}</string>
 {\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs20 \cf1 Initialisation}</string>
+\f0\fs20 \cf1 Initialise}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -4806,7 +4806,7 @@ Service}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-12-05 11:59:00 -0600</string>
+	<string>2012-12-05 23:50:17 -0600</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
