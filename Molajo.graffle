@@ -2576,11 +2576,11 @@ Service}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.686275</string>
+						<string>0.746438</string>
 						<key>g</key>
-						<string>0.865188</string>
+						<string>0.680687</string>
 						<key>r</key>
-						<string>0.639216</string>
+						<string>0.884995</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2634,11 +2634,11 @@ Service}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.686275</string>
+						<string>0.746438</string>
 						<key>g</key>
-						<string>0.865188</string>
+						<string>0.680687</string>
 						<key>r</key>
-						<string>0.639216</string>
+						<string>0.884995</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2692,11 +2692,11 @@ Service}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.686275</string>
+						<string>0.746438</string>
 						<key>g</key>
-						<string>0.865188</string>
+						<string>0.680687</string>
 						<key>r</key>
-						<string>0.639216</string>
+						<string>0.884995</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2750,11 +2750,11 @@ Service}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.686275</string>
+						<string>0.746438</string>
 						<key>g</key>
-						<string>0.865188</string>
+						<string>0.680687</string>
 						<key>r</key>
-						<string>0.639216</string>
+						<string>0.884995</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -2808,11 +2808,11 @@ Service}</string>
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.686275</string>
+						<string>0.746438</string>
 						<key>g</key>
-						<string>0.865188</string>
+						<string>0.680687</string>
 						<key>r</key>
-						<string>0.639216</string>
+						<string>0.884995</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -3200,13 +3200,31 @@ Service}</string>
 			</dict>
 			<key>Text</key>
 			<dict>
+				<key>RTFD</key>
+				<data>
+				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
+				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
+				bmcBlIQBKxNPbiBBZnRlciBJbml0aWFsaXplhoQCaUkB
+				CJKEhIQMTlNEaWN0aW9uYXJ5AJSEAWkCkoSWlhBOU1Bh
+				cmFncmFwaFN0eWxlhpKEhIQQTlNQYXJhZ3JhcGhTdHls
+				ZQCUhARDQ0BTAgCEhIQHTlNBcnJheQCUmQyShISECU5T
+				VGV4dFRhYgCUhAJDZgAchpKEn54AOIaShJ+eAFSGkoSf
+				ngBwhpKEn54AgYwAhpKEn54AgagAhpKEn54AgcQAhpKE
+				n54AgeAAhpKEn54AgfwAhpKEn54AgRgBhpKEn54AgTQB
+				hpKEn54AgVABhoaBAAiEBFsxZl2DzcxMPYaShJaWBk5T
+				Rm9udIaShISEBk5TRm9udB6UmRyEBVsyOGNdBgAAABQA
+				AAD//kgAZQBsAHYAZQB0AGkAYwBhAIQBZgmEAWMAowGj
+				AKMAhoaXAgGShJiZA5KElpYHTlNDb2xvcoaShISEB05T
+				Q29sb3IAlKMChARmZmZmg+nnZz+Dvr09P4PMyko/AYaS
+				mZKakquSrIaXAQqG
+				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
+{\colortbl;\red255\green255\blue255;\red226\green174\blue190;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\qc
 
-\f0\fs18 \cf0 On After Initialize}</string>
+\f0\fs18 \cf0 On After\cf2  \cf0 Initialize}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -3981,7 +3999,7 @@ Service}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-12-07 01:46:48 -0600</string>
+	<string>2012-12-07 01:51:59 -0600</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
