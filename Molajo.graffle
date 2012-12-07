@@ -5035,7 +5035,7 @@ Service }</string>
 	<array>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Final</string>
 			<key>Print</key>
@@ -5045,7 +5045,7 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Delete</string>
 			<key>Print</key>
@@ -5055,7 +5055,7 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Update</string>
 			<key>Print</key>
@@ -5065,7 +5065,7 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Create</string>
 			<key>Print</key>
@@ -5075,7 +5075,7 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Log In</string>
 			<key>Print</key>
@@ -5085,7 +5085,7 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Read</string>
 			<key>Print</key>
@@ -5095,7 +5095,7 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Events</string>
 			<key>Print</key>
@@ -5105,17 +5105,17 @@ Service }</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Services</string>
 			<key>Print</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>View</key>
 			<string>YES</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Front Controller</string>
 			<key>Print</key>
@@ -5146,7 +5146,7 @@ Service }</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-12-07 16:03:16 -0600</string>
+	<string>2012-12-07 16:06:58 -0600</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
