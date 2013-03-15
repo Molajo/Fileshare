@@ -51,6 +51,27 @@
 	<integer>0</integer>
 	<key>CanvasOrigin</key>
 	<string>{0, 0}</string>
+	<key>ColorProfile</key>
+	<dict>
+		<key>cmykDigest</key>
+		<data>
+		1vdRq7/tWg7Bmz+2vusgXA==
+		</data>
+		<key>cmykName</key>
+		<string>Generic CMYK Profile</string>
+		<key>grayDigest</key>
+		<data>
+		BZ8MgfCIPCO6QjIwfz9Wng==
+		</data>
+		<key>grayName</key>
+		<string>Generic Gray Profile</string>
+		<key>rgbDigest</key>
+		<data>
+		ABKXFaloT3/6b5ImdilamQ==
+		</data>
+		<key>rgbName</key>
+		<string>Generic RGB Profile</string>
+	</dict>
 	<key>ColumnAlign</key>
 	<integer>1</integer>
 	<key>ColumnSpacing</key>
@@ -86,9 +107,9 @@
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\f0\b\fs20 \cf0 Niambie Application Flowchart
+\f0\b\fs20 \cf0 Application Flowchart
 \b0 \
 Amy Stephen
 \fs16 \
@@ -1037,10 +1058,10 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 			<key>OrthogonalBarPoint</key>
 			<string>{0, 0}</string>
 			<key>OrthogonalBarPosition</key>
-			<real>8.3500003814697266</real>
+			<real>7.3500003814697266</real>
 			<key>Points</key>
 			<array>
-				<string>{436.5, 535.5}</string>
+				<string>{436.5, 533.5}</string>
 				<string>{486, 495}</string>
 			</array>
 			<key>Style</key>
@@ -1186,8 +1207,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -1259,8 +1278,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -1327,7 +1344,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 			<key>OrthogonalBarPoint</key>
 			<string>{0, 0}</string>
 			<key>OrthogonalBarPosition</key>
-			<real>5.1999998092651367</real>
+			<real>5.2000002861022949</real>
 			<key>Points</key>
 			<array>
 				<string>{436.5, 424.8}</string>
@@ -1428,8 +1445,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -1501,8 +1516,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -1565,8 +1578,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -1638,8 +1649,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -1896,8 +1905,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
-					<key>TextRelativeArea</key>
-					<string>{{0, 0}, {1, 0.9}}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -1965,8 +1972,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
-					<key>TextRelativeArea</key>
-					<string>{{0, 0}, {1, 0.9}}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
@@ -2102,8 +2107,6 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -2129,8 +2132,9 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unpo
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
 \f0\fs16 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\ql\qnatural\pardirnatural
 
-\b Events Service
+\b \cf0 Events Service
 \b0 \
 During Initialization, Plugins register for Events. As Events are scheduled by the application, the service triggers Plugins. \
 }</string>
@@ -2674,8 +2678,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 								<key>VerticalPad</key>
 								<integer>0</integer>
 							</dict>
-							<key>TextRelativeArea</key>
-							<string>{{0.1, 0}, {0.8, 1}}</string>
 						</dict>
 					</array>
 					<key>ID</key>
@@ -2777,8 +2779,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
-					<key>TextRelativeArea</key>
-					<string>{{0.15, 0.15}, {0.7, 0.7}}</string>
 				</dict>
 			</array>
 			<key>ID</key>
@@ -2920,8 +2920,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -3234,8 +3232,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -3307,8 +3303,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -3380,8 +3374,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -3453,8 +3445,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -3526,8 +3516,6 @@ During Initialization, Plugins register for Events. As Events are scheduled by t
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -4510,8 +4498,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0, 0}, {1, 0.9}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -4576,8 +4562,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.2, 0}, {0.6, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -4640,8 +4624,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -4746,8 +4728,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -4810,8 +4790,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -4874,8 +4852,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -4938,8 +4914,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -5002,8 +4976,6 @@ Service }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
-			<key>TextRelativeArea</key>
-			<string>{{0.1, 0}, {0.8, 1}}</string>
 		</dict>
 	</array>
 	<key>GridInfo</key>
@@ -5146,7 +5118,7 @@ Service }</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-12-07 16:06:58 -0600</string>
+	<string>2013-03-15 12:09:23 -0500</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
