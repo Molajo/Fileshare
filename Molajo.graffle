@@ -5448,7 +5448,7 @@ Service }</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-01-13 13:48:49 -0600</string>
+	<string>2014-01-13 14:20:33 -0600</string>
 	<key>Modifier</key>
 	<string>Amy Stephen</string>
 	<key>NotesVisible</key>
@@ -5533,7 +5533,7 @@ Service }</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-103, -8}, {782.5, 640}}</string>
+		<string>{{-103, 29.5}, {782.5, 640}}</string>
 		<key>Zoom</key>
 		<real>2</real>
 		<key>ZoomValues</key>
